@@ -1,2 +1,3 @@
 lab50: true
-  files: example.py
+  files: 
+    - !include example.py
