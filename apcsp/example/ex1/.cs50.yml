@@ -1,3 +1,3 @@
 lab50:
-  files: 
+  files:
     - !include ex.py
