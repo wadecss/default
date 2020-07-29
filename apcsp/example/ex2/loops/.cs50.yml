@@ -2,6 +2,7 @@ lab50:
   files:
     - !exclude "*"
     - !include mario.py
+    - !include next.py
 
 submit50:
   files: &files
