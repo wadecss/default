@@ -1,4 +1,3 @@
-lab50:
-  files:
-    - !include mario.py
-    - !include ex.py
+lab50: true
+    files:
+        - !include ex.py
