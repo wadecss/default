@@ -1,3 +1,4 @@
 lab50: true
     files:
         - !include ex.py
+        - !include text1.txt
